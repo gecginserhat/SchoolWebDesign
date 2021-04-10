@@ -1,0 +1,94 @@
+body{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0px;
+    font-family: "Trebuchet MS";
+    font-size: 16px;
+    color: gray;
+    line-height: 30px;
+
+}
+.u1{
+    float: left;
+    width: 20%;
+
+}
+
+.u2{
+    float: right;
+    width: 75%;
+
+}
+.temizle {
+    clear:both;
+}
+h1, h3 {
+    text-align: center;
+    color: #09e86c;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.oval-resim{
+    border-radius: 15px;
+    border: 1px solid #003399;
+}
+hr{
+    width: 80%;
+    text-align: center;
+    color: #bdd6dc;
+    border: 1px solid #bdd6dc;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.b1 {
+    width:48%;
+    float: left;
+
+}
+
+.b2{
+    width:48%;
+    float: right;
+}
+
+.o1,.o2, .o4,.o5{
+float:left;
+width:30%;
+border:1px solid #d0d0d0;
+margin-right:3%;
+margin-top:50px;
+padding: 5px;
+}
+
+.o3{
+float:right;
+width:30%;
+border:1px solid #d0d0d0;
+margin-top: 50px;
+padding: 5px;
+}
+
+.per-resim{
+    text-align:center;
+
+}
+
+.per-isim{
+    font-size: 20px;
+    color: #002166;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.per-is{
+    font-size: medium;
+
+}

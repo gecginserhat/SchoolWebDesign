@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+
+}
+
+h1 {
+    color: #e13300;
+
+}
+
+h3 {
+    color:#990000;
+
+}
+
+#menu {
+
+    background-color: #444444;
+    height:50px;
+    color:#d0d0d0;
+    margin-top:0px;
+    margin-bottom:30px;
+    padding-top: 20px;
+}
+
+a:link, a:visited{
+    font-family:"Trebuchet MS"
+    font-size: 16px;
+    color: #d0d0d0;
+    padding: 20px;
+    background-color: #444444;
+}
+
+p,ul,h4{
+    font-family:Tahoma ;
+    color: gray;
+    text-align: justify;
+    font-size:16px;
+    line-height:30px;
+
+}
+
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    border:1px solid #0000ffff
+
+
+
+}
+.cerceve {
+    border: 1px solid #333;
+    border-radius: 10px;
+
+
+}
+
+
+.per-resim {
+    text-align: center ;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+.per-isim {
+    font-family:"Trebuchet MS"
+    font-size: 20px;
+    color:#333;
+    text-align: center;
+}
+
+.per-is {
+    text-align:center;
+    color: #333;
+
+}
+
+.ana-sayfa-link {
+    text-align: right;
+}
